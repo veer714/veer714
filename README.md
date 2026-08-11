@@ -1,21 +1,130 @@
-# 💫 About Me:
-- 💻 Passionate developer skilled in **C, C++, Python, Django, HTML, CSS, JavaScript**<br>- 🎨 Experienced in building **user interfaces** for record management systems (school & college contexts)<br>- 🛠️ Strong in **data structures** (stacks, queues, linked lists) with clean, beginner-friendly implementations<br>- 📊 Proactive in **troubleshooting Git, environment, and database issues**<br>- 🌐 Interested in creating **multi-page portfolio websites** with bold themes and clear navigation<br>- 📈 Growth mindset: I iteratively improve projects and adapt feedback quickly<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C7B7&height=220&section=header&text=Veer%20Pratap%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20DSA%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veer-pratap-singh-raghav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghavveer714@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=650&lines=Turning+Data+into+Decisions;Building+ML+Models+that+Actually+Work;Solving+DSA%2C+One+Problem+at+a+Time;From+Web+Dev+Roots+to+ML+Ambitions" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=veer714&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=veer714&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=veer714&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://linkedin.com/in/veer-pratap-singh-raghav">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:raghavveer714@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/veer714">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
-[![](https://visitcount.itsvg.in/api?id=veer714&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/><br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://img.shields.io/github/followers/veer714?style=for-the-badge&logo=github&color=00C7B7&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fveer714-github%2Fprofile&color=00C7B7&labelColor=1a1a1a" />
+
+</div>
+
+<br/>
+
+## About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a developer who started out building clean web interfaces and structured record-management systems, and has since moved deep into **Machine Learning**. Right now I split my time between learning the ML stack properly (models, pipelines, evaluation) and sharpening **DSA & problem-solving** so the fundamentals stay sharp underneath everything I build.
+
+- Currently exploring **Machine Learning** — from data cleaning to model evaluation
+- Practicing **DSA daily** — stacks, queues, linked lists, trees, and beyond
+- Built **UI systems** for school/college record management projects
+- Comfortable across **C, C++, Python, Django, JS, HTML/CSS**
+- Enjoy debugging Git, environment, and database issues — the messier, the better
+- Growth mindset: ship, get feedback, iterate, repeat
+
+</td>
+<td width="40%" valign="top" align="center">
+
+```python
+class Veer:
+    def __init__(self):
+        self.role = "Aspiring ML Engineer"
+        self.focus = [
+            "Machine Learning",
+            "DSA",
+            "Python"
+        ]
+        self.learning = "Model building + Advanced DSA"
+
+    def say_hi(self):
+        print("Let's build something!")
+
+me = Veer()
+me.say_hi()
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+**Core Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
+
+<br/><br/>
+
+**Machine Learning & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,numpy,pandas,matplotlib,sklearn,jupyter&theme=dark" />
+
+<br/><br/>
+
+**Web & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=django,html,css,js,mongodb,sqlite&theme=dark" />
+
+<br/><br/>
+
+**Tools & Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,figma,canva&theme=dark" />
+
+</div>
+
+<br/>
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veer714&theme=redical&hide_border=false" width="90%" />
+</p>
+
+## Currently Focused On
+
+<div align="center">
+
+| Area | What I'm Doing |
+|---|---|
+| **Machine Learning** | Learning the full workflow — EDA, preprocessing, model training, evaluation with Scikit-learn |
+| **DSA** | Daily problem solving — arrays, linked lists, stacks, queues, trees |
+| **Past Projects** | Record management systems with clean, functional UIs (school/college context) |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"The best way to predict the future is to build it — one commit at a time."*
+
+<br/><br/>
+
+<i>From building interfaces to building intelligence — the journey continues.</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:0F2027&height=100&section=footer" width="100%"/>
