@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/veer-pratap-singh-raghav">
+<a href="https://linkedin.com/in/veer-pratap-raghav">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:raghavveer714@gmail.com">
