@@ -1,0 +1,41 @@
+{
+  "username": "veer714",
+  "name": "Veer Pratap",
+  "education": "B.Tech · AI & Data Science",
+  "rotating": [
+    "Aspiring Machine Learning engineer",
+    "Training CNNs and NLP classifiers",
+    "Serving models with FastAPI & Streamlit",
+    "Keeping DSA sharp, one problem at a time",
+    "Building it one commit at a time"
+  ],
+  "featured": ["Practice_FAST_API-", "CIFAR_10", "spam-classifier", "leetcode_solutions"],
+  "descriptions": {
+    "Practice_FAST_API-": "FastAPI + Pydantic practice: an ML spam-detection endpoint and a patient management REST API.",
+    "CIFAR_10": "Deep CNN (Keras/TensorFlow) that classifies CIFAR-10 images, with heavy data augmentation.",
+    "leetcode_solutions": "My LeetCode solutions in Java: data structures and algorithms practice.",
+    "spam-classifier": "SMS/Email spam detector: NLTK preprocessing, TF-IDF, Naive Bayes, served with Streamlit."
+  },
+  "snapshot": {
+    "followers": 16,
+    "following": 12,
+    "public_repos": 15,
+    "stars": 14,
+    "languages": {
+      "Jupyter Notebook": 73,
+      "TypeScript": 8,
+      "Java": 7,
+      "JavaScript": 6,
+      "Python": 6
+    },
+    "repo_stats": {
+      "Practice_FAST_API-": {"stars": 1, "forks": 0, "language": "Python"},
+      "CIFAR_10": {"stars": 0, "forks": 0, "language": "Jupyter Notebook"},
+      "leetcode_solutions": {"stars": 0, "forks": 0, "language": "Java"},
+      "spam-classifier": {"stars": 0, "forks": 0, "language": "Python"}
+    },
+    "current_streak": 0,
+    "longest_streak": 13,
+    "total_contributions": 330
+  }
+}
