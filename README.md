@@ -151,11 +151,11 @@ My running log of LeetCode solutions in Java. This is the fundamentals workout b
 ### ☄️ Latest pushes
 
 <!--ACTIVITY:START-->
-- ☄️ pushed to [`veer714`](https://github.com/veer714/veer714) · 1d ago
-- ☄️ pushed to [`portfolio`](https://github.com/veer714/portfolio) · 1d ago
-- ☄️ pushed to [`register`](https://github.com/veer714/register) · 5d ago
-- ☄️ pushed to [`register`](https://github.com/veer714/register) · 5d ago
-- ☄️ pushed to [`register`](https://github.com/veer714/register) · 5d ago
+- ☄️ pushed to [`portfolio`](https://github.com/veer714/portfolio) · 2d ago
+- ☄️ pushed to [`veer714`](https://github.com/veer714/veer714) · 2d ago
+- ☄️ pushed to [`portfolio`](https://github.com/veer714/portfolio) · 2d ago
+- ☄️ pushed to [`register`](https://github.com/veer714/register) · 6d ago
+- ☄️ pushed to [`register`](https://github.com/veer714/register) · 6d ago
 <!--ACTIVITY:END-->
 
 ---
